@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class='container'>
+  <view class='logo'>
+    <image class='logo-img' src='logo.png' background-size="cover"></image>
+  </view>
+  <view class='btn'>
+    <button open-type='getUserInfo' bindtap='login'>登录</button>
+  </view>
+  <view>
+    <button bindtap='test'>测试</button>
+  </view>
+</view>

@@ -1,0 +1,21 @@
+/**index.wxss**/
+.logo{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: space-around;
+ margin-top: 290rpx;
+}
+.logo-img{
+  width: 200rpx;
+  height: 200rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+.btn{
+  width: 200rpx;
+  margin-top: 150rpx;
+}
+.btn button{
+  background-color: #76ee00;
+}
